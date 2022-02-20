@@ -23,7 +23,7 @@
   "require": {
     "php": "^7.2.0|^8.0.2",
     "laravel/nova": "^3.0",
-    "optimistdigital/nova-translations-loader": "dev-patch-2"
+    "optimistdigital/nova-translations-loader": "dev-patch-1"
   },
   "autoload": {
     "psr-4": {
